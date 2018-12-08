@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "pagonia",
+  "name": "Pagonia",
+  "description": "Winterjam Mod 2018",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Modding Legacy and Cryptic Mushrom"],
+  "credits": "This mod was created for Winterjam 2018 by 115kino, Lachney, Cipherzerox, Five",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
